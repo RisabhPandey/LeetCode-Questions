@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -54,4 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
