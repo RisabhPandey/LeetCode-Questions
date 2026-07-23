@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [0989-add-to-array-form-of-integer](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
