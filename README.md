@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 ## Design
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
