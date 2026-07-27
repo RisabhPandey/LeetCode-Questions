@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
+| [0977-squares-of-a-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
