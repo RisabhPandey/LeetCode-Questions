@@ -10,17 +10,12 @@ public:
             int ht = min(height[st],height[end]);
             int width = end - st;
             int cap = ht*width;
+            max_cap = max(cap,max_cap);
             if(height[st] < height[end]){
-                if(max_cap < cap)
-                    max_cap = cap;
                 st++;
-                
             }
             else{
-                 if(max_cap < cap)
-                    max_cap =cap;
                 end--;
-            
             }
         }
         return max_cap;
