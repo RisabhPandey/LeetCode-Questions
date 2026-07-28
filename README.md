@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
