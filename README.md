@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
