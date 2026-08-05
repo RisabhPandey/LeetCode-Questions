@@ -15,7 +15,6 @@ public:
                 max_sum = max(curr_sum, max_sum);
             }
 
-        max_sum = max(curr_sum, max_sum);        
         }
         return max_sum;
     }
