@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
