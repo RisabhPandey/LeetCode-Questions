@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0162-find-peak-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0319-bulb-switcher) |
