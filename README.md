@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
