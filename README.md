@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 ## Sorting
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
