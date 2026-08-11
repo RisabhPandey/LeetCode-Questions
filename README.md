@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
