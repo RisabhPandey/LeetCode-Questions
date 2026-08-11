@@ -13,21 +13,24 @@ class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
         if(root == NULL) return root;
+        queue<TreeNode*>Q;
+        Q.push(root);
+        while(!Q.empty()){
+            TreeNode* curr = Q.front();
+            Q.pop();
+        
+    TreeNode* temp = curr->left;
+    curr->left = curr->right;
+    curr->right = temp;
 
-        DFS(root);
-        return root;
+    if(curr->left != NULL){
+        Q.push(curr->left);
+        }
+    if(curr->right!= NULL){
+        Q.push(curr-> right);
+        }
     }
-
-    TreeNode* DFS(TreeNode* root){
-        if(root == NULL) return NULL;
-
-        TreeNode* L = DFS(root -> left);
-        TreeNode* R = DFS(root -> right);
-
-        root->left = R;
-        root->right = L;
-
-        return root;
+    return root;
     }
     
 };
