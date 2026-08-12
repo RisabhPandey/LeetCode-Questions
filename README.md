@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
