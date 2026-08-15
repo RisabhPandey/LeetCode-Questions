@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0242-valid-anagram) |
 ## Breadth-First Search
