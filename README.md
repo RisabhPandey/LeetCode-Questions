@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0394-decode-string) |
 ## Breadth-First Search
 |  |
 | ------- |
