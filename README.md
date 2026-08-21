@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
