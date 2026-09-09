@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0394-decode-string) |
+| [1446-consecutive-characters](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Breadth-First Search
 |  |
