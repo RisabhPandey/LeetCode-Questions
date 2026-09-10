@@ -3,8 +3,8 @@ class Solution {
         int open = 0;
         int count = 0;
 
-        for (char ch : s.toCharArray()) {
-
+        for (int i = 0; i<s.length();i++) {
+            char ch = s.charAt(i);
             if (ch == '(') {
                 open++;
             } 
