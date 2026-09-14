@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1572-matrix-diagonal-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1572-matrix-diagonal-sum) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
