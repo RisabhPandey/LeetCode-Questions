@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Greedy
 |  |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
