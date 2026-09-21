@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
