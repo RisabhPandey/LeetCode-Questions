@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1518-water-bottles) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Data Stream
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
