@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1518-water-bottles) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Data Stream
 |  |
 | ------- |
