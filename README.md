@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Timsort
 |  |
