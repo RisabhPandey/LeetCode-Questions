@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Timsort
 |  |
