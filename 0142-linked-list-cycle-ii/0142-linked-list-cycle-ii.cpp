@@ -1,18 +1,33 @@
-#include <unordered_map>
-
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        std::unordered_map<ListNode*, bool> visited;
-        ListNode* curr = head;
-        
-        while (curr != nullptr) {
-            if (visited[curr]) {
-                return curr; // cycle detected
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* ptr = head;
+        if(head == NULL || head->next == NULL) return NULL;
+    
+        while(fast !=NULL && fast->next != NULL){
+            fast = fast->next->next;
+            slow = slow->next;
+            
+            if(fast == slow){
+                
+                while(ptr != slow){
+                    ptr = ptr->next;
+                    slow = slow->next;
+                }
+                return ptr;
             }
-            visited[curr] = true;
-            curr = curr->next;
         }
-        return nullptr; // no cycle
+        return NULL;
+
     }
 };
