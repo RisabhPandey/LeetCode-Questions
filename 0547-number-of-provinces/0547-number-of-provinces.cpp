@@ -1,30 +1,42 @@
 class Solution {
 public:
-    void DFS(int src, vector<vector<int>>& isConnected, vector<bool>& visited){
-        // Marked it visited
+    void BFS(int src, vector<vector<int>>& isConnected,
+             vector<bool>& visited) {
+
+        queue<int> q;
+        q.push(src);
         visited[src] = true;
-        
-        int n = isConnected.size();
-        // Call DFS for all non-visited neighbours
-        for(int i= 0;i<n ;i++){
-            if(isConnected[src][i] == 1 && visited[i]==false){
-                DFS(i,isConnected,visited);
+
+        while(!q.empty()) {
+
+            int u = q.front();
+            q.pop();
+
+            for(int neb = 0; neb < isConnected[u].size(); neb++) {
+
+                if(isConnected[u][neb] == 1 && !visited[neb]) {
+                    q.push(neb);
+                    visited[neb] = true;
+                }
             }
-        } 
-
+        }
     }
-public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector<bool>visited(n,false);
-        int count =0;
 
-        for(int i=0; i<n; i++){
-            if(visited[i] == false){
-                DFS(i,isConnected,visited);
+    int findCircleNum(vector<vector<int>>& isConnected) {
+
+        int n = isConnected.size();
+        vector<bool> visited(n, false);
+
+        int count = 0;
+
+        for(int i = 0; i < n; i++) {
+
+            if(!visited[i]) {
+                BFS(i, isConnected, visited);
                 count++;
             }
         }
+
         return count;
     }
 };
