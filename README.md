@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
