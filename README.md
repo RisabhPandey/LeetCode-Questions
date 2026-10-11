@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -394,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
