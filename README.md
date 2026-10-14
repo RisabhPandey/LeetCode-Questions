@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Quicksort
 |  |
