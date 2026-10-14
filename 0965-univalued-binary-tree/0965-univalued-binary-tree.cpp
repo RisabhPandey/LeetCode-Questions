@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    bool DFS(TreeNode* root,int val){
+    bool helper(TreeNode* root,int val){
         if(root == NULL)return true;
         
         if(root->val != val){
             return false;
         }
 
-        bool l = DFS(root->left,val);
-        bool r = DFS(root->right,val);
+        bool l = helper(root->left,val);
+        bool r = helper(root->right,val);
 
         return l&&r;
 
@@ -28,7 +28,7 @@ public:
     bool isUnivalTree(TreeNode* root) {
         int val = root->val;
         
-        return(DFS(root,val));
+        return(helper(root,val));
 
     }
 };
