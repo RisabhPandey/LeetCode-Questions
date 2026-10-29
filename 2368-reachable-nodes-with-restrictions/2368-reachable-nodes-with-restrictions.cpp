@@ -22,10 +22,10 @@ public:
     int reachableNodes(int n, vector<vector<int>>& edges, vector<int>& restricted) {
     vector<vector<int>>adj(n);
     vector<bool>visited(n,false);
-    for (auto& edge : edges) {
-            adj[edge[0]].push_back(edge[1]);
-            adj[edge[1]].push_back(edge[0]);
-        }
+    for(int i =0;i<edges.size();i++){
+    adj[edges[i][0]].push_back(edges[i][1]);
+    adj[edges[i][1]].push_back(edges[i][0]);
+    }
     for(int i=0;i<restricted.size();i++){
         visited[restricted[i]] = true;
     }
