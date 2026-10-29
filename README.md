@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Linked List
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Quicksort
 |  |
 | ------- |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Enumeration
 |  |
 | ------- |
