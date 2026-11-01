@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0257-binary-tree-paths](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0968-binary-tree-cameras) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
@@ -452,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
