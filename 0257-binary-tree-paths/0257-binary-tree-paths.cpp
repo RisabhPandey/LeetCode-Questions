@@ -19,16 +19,15 @@ public:
             return ans;
         }
 
-        vector<string> leftAns = binaryTreePaths(root->left);
-        vector<string> rightAns = binaryTreePaths(root->right);
+        vector<string>leftAns = binaryTreePaths(root->left);
+        vector<string>rightAns = binaryTreePaths(root->right);
 
         for(string str: leftAns){
-            ans.push_back(to_string(root->val) + "->" + str);
+            ans.push_back(to_string(root->val)+"->"+str);
         }
         for(string str: rightAns){
-            ans.push_back(to_string(root->val) + "->" + str);
+            ans.push_back(to_string(root->val)+"->"+str);
         }
-
         return ans;
     }
 };
