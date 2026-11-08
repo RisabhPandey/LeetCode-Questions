@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/RisabhPandey/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
